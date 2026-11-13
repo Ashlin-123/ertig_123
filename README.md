@@ -1,2 +1,2 @@
-# ertig_123
+# ertig
 making a story into a script
